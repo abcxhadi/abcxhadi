@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Abdul Hadi!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=22&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=800&lines=%3E+Accessing+mainframe...;%3E+Bypassing+security+protocols...;%3E+Identity%3A+Hadi+Regonda+%5BCONFIRMED%5D;%3E+Status%3A+Computer+Applications+Student;%3E+Location%3A+Amity+University%2C+Noida;%3E+Specialization%3A+Frontend+%26+Backend+Dev;%3E+Secondary+Focus%3A+Competitive+Programming;%3E+Mission%3A+Building+Tomorrow's+Code;%3E+Access+Granted+%E2%9C%93+Welcome+to+the+Matrix" alt="Hacker Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=22&duration=2000&pause=500&color=00FF41&center=true&vLeft=true&width=800&lines=%3E+Accessing+mainframe...;%3E+Bypassing+security+protocols...;%3E+Identity%3A+Abdul+Hadi+%5BCONFIRMED%5D;%3E+Status%3A+Computer+Applications+Student;%3E+Location%3A+Amity+University%2C+Noida;%3E+Specialization%3A+Frontend+%26+Backend+Dev;%3E+Secondary+Focus%3A+Competitive+Programming;%3E+Mission%3A+Building+Tomorrow's+Code;%3E+Access+Granted+%E2%9C%93+Welcome+to+the+Matrix" alt="Hacker Typing Animation" />
 </div>
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
