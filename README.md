@@ -139,26 +139,6 @@ const currentProjects = {
 
 ---
 
-## 💡 Fun Stats & Quotes
-
-<div align="center">
-  
-<table>
-<tr>
-<td align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Dev Quote" />
-</td>
-</tr>
-</table>
-
-**Personal Motto:** *"From curiosity to code - building tomorrow's solutions today"* 
-
-</div>
-
----
-
-<div align="center">
-
 ### 💬 Ask me about
 **Frontend Development** • **Competitive Programming** • **Student Life at Amity** • **Tech Career Guidance**
 
