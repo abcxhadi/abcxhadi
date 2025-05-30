@@ -6,12 +6,6 @@
 
 ---
 
-## 🚀 Profile Overview
-
-**Current Focus:** Building scalable web applications and sharpening competitive programming skills  
-**Location:** Amity University, Noida 📍  
-**Status:** Available for collaboration and internship opportunities 🟢
-
 ### When I code, I rely on
 
 <p align="left">
