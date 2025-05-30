@@ -58,14 +58,6 @@
 
 ---
 
-## 🏆 Achievement Showcase
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abcxhadi&theme=gitdimmed&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 💻 Recent Projects & Contributions
 
 ```typescript
