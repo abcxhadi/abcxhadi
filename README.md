@@ -1,131 +1,185 @@
-# Hi there, I'm Hadi! 👋
+# 👋 Hi there, I'm Abdul Hadi!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Frontend+Developer;Backend+Explorer;Competitive+Programmer;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Applications+Student+%40+Amity;Frontend+Developer+%26+UI%2FUX+Enthusiast;Competitive+Programming+Warrior;Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing Animation" />
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚀 Profile Overview
 
-I'm a passionate **1st-year Computer Application student** at **Amity University, Noida**, turning my childhood fascination with technology into real-world coding skills. Currently building my expertise through hands-on projects and competitive programming.
+**Current Focus:** Building scalable web applications and sharpening competitive programming skills  
+**Location:** Amity University, Noida 📍  
+**Status:** Available for collaboration and internship opportunities 🟢
 
-### 🎯 Current Focus
-- 🔨 **Building**: Small-scale web and mobile applications to sharpen my development skills
-- 📱 **Creating**: A personal portfolio website to showcase my journey and projects
-- 🏆 **Competing**: Actively participating in competitive programming challenges
-- 🌐 **Exploring**: Full-stack development from frontend frameworks to backend APIs
+### When I code, I rely on
 
-### 🤝 Let's Collaborate
-I'm actively seeking opportunities to:
-- Contribute to **open-source projects**
-- Join **student-led development initiatives**
-- Participate in **hackathons** and coding competitions
-- Work on **frontend/mobile development** projects
+<p align="left">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+</p>
 
-### 🎓 Learning Journey
-- **Academic**: Computer Applications fundamentals at Amity University
-- **Technical**: Advanced frontend frameworks, backend optimization, and database management
-- **Practical**: API integration, cloud deployment, and system design principles
+<p align="left">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## 📈 My GitHub contributions summary
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abcxhadi)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abcxhadi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abcxhadi@gmail.com)
+<table>
+<tr>
+<td align="center" style="padding: 20px;">
+<img src="https://github-readme-stats.vercel.app/api?username=abcxhadi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" alt="GitHub Stats" height="200" />
+</td>
+<td align="center" style="padding: 20px;">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abcxhadi&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ffa657&currStreakLabel=58a6ff" alt="GitHub Streak" height="200" />
+</td>
+</tr>
+</table>
 
-</div>
-
----
-
-## 💻 Tech Stack
-
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-### 📱 Mobile Development
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-
-### 🛠️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-### ☁️ Cloud & Deployment
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-### 🔧 Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abcxhadi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abcxhadi&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abcxhadi&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abcxhadi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievement Showcase
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abcxhadi&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abcxhadi&theme=gitdimmed&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
 
-## 💡 Random Dev Quote
+## 💻 Recent Projects & Contributions
+
+```typescript
+const currentProjects = {
+  portfolio: {
+    name: "Personal Portfolio Website",
+    tech: ["Next.js", "TypeScript", "Tailwind CSS"],
+    status: "🚧 In Development",
+    focus: "Responsive design & performance optimization"
+  },
+  
+  competitiveProgramming: {
+    platforms: ["LeetCode", "CodeChef", "Codeforces"],
+    currentRating: "Improving daily 📈",
+    focus: "Data structures & algorithms mastery"
+  },
+  
+  learning: {
+    current: ["Advanced React patterns", "System Design", "Cloud Architecture"],
+    next: ["Machine Learning", "DevOps", "Microservices"]
+  }
+}
+```
+
+---
+
+## 📊 Coding Activity
+
+<!--START_SECTION:waka-->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abcxhadi&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffa657" alt="Activity Graph" />
 </div>
+<!--END_SECTION:waka-->
 
 ---
 
-## 📈 Contribution Graph
+## 🎯 What I'm focused on
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🔭 Currently Building
+- **Portfolio Website**: Showcasing my journey as a developer
+- **Full-stack Applications**: Learning backend integration
+- **Mobile Apps**: Exploring React Native & Flutter
+- **Open Source**: Contributing to community projects
+
+</td>
+<td width="50%">
+
+### 🌱 Currently Learning
+- **Advanced Frontend**: React ecosystem & performance
+- **Backend Development**: Node.js, databases, APIs
+- **Cloud Technologies**: AWS, deployment strategies
+- **Competitive Programming**: Algorithm optimization
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abcxhadi&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/abcxhadi)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://instagram.com/abcxhadi)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:abcxhadi@gmail.com)
+
 </div>
 
+**Looking for:**
+- 👥 **Collaboration** on open-source projects
+- 🚀 **Internship opportunities** in web/mobile development
+- 🎯 **Study groups** for competitive programming
+- 💼 **Mentorship** from experienced developers
+
 ---
+
+## 💡 Fun Stats & Quotes
 
 <div align="center">
   
-### 💬 Ask me about anything tech-related!
-*"From curiosity to code - turning ideas into reality, one commit at a time."*
+<table>
+<tr>
+<td align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Dev Quote" />
+</td>
+</tr>
+</table>
 
-![Profile Views](https://komarev.com/ghpvc/?username=abcxhadi&color=blueviolet&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/abcxhadi?style=for-the-badge&color=blue)](https://github.com/abcxhadi)
+**Personal Motto:** *"From curiosity to code - building tomorrow's solutions today"* 
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+
+### 💬 Ask me about
+**Frontend Development** • **Competitive Programming** • **Student Life at Amity** • **Tech Career Guidance**
+
+![Profile Views](https://komarev.com/ghpvc/?username=abcxhadi&style=for-the-badge&color=58a6ff&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/abcxhadi?style=for-the-badge&color=58a6ff&labelColor=0d1117)](https://github.com/abcxhadi)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer&text=Happy%20Coding!&fontSize=20&fontColor=ffffff" alt="Footer Wave" />
 </div>
