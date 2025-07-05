@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Abdul Hadi!
 
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=22&duration=2000&pause=500&color=00FF41&center=false&vCenter=true&width=800&lines=%3E+Accessing+mainframe...;%3E+Bypassing+security+protocols...;%3E+Identity%3A+Abdul+Hadi+%5BCONFIRMED%5D;%3E+Status%3A+Computer+Science+Student;%3E+Location%3A+United+Arab%2C+Emirates;%3E+Specialization%3A+Frontend+%26+Backend+Dev;%3E+Secondary+Focus%3A+Competitive+Programming;%3E+Mission%3A+Building+Tomorrow's+Code;%3E+Access+Granted+%E2%9C%93+Welcome+to+the+Matrix" alt="Hacker Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=22&duration=2000&pause=500&color=00FF41&center=false&vCenter=true&width=800&lines=%3E+Accessing+mainframe...;%3E+Bypassing+security+protocols...;%3E+Identity%3A+Abdul+Hadi;%3E+Status%3A+Computer+Science+Student;%3E+Location%3A+United+Arab%2C+Emirates;%3E+Specialization%3A+Frontend+%26+Backend+Dev;%3E+Secondary+Focus%3A+Competitive+Programming;%3E+Mission%3A+Building+Tomorrow's+Code;%3E+Access+Granted+%E2%9C%93+Welcome+to+the+Matrix" alt="Hacker Typing Animation" />
   
 ### When I code, I rely on
 
@@ -40,33 +40,6 @@
 </table>
 
 </div>
-
-
----
-
-## 💻 Recent Projects & Contributions
-
-```typescript
-const currentProjects = {
-  portfolio: {
-    name: "Personal Portfolio Website",
-    tech: ["Next.js", "TypeScript", "Tailwind CSS"],
-    status: "🚧 In Development",
-    focus: "Responsive design & performance optimization"
-  },
-  
-  competitiveProgramming: {
-    platforms: ["LeetCode", "CodeChef", "Codeforces"],
-    currentRating: "Improving daily 📈",
-    focus: "Data structures & algorithms mastery"
-  },
-  
-  learning: {
-    current: ["Advanced React patterns", "System Design", "Cloud Architecture"],
-    next: ["Machine Learning", "DevOps", "Microservices"]
-  }
-}
-```
 
 ---
 
